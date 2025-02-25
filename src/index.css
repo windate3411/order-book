@@ -1,1 +1,15 @@
 @import 'tailwindcss';
+
+@theme {
+  --color-dark: #131b29;
+  --color-default: #f0f4f8;
+  --color-head: #8698aa;
+  --color-buy-price: #00b15d;
+  --color-sell-price: #ff5b5a;
+  --color-row-hover: #1e3059;
+  --color-buy-bar: rgba(16, 186, 104, 0.12);
+  --color-sell-bar: rgba(255, 90, 90, 0.12);
+  --color-flash-green: rgba(0, 177, 93, 0.5);
+  --color-flash-red: rgba(255, 91, 90, 0.5);
+  --color-row-default: rgba(134, 152, 170, 0.12);
+}
